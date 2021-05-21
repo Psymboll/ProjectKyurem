@@ -1,0 +1,17 @@
+com\github\psymboll\projectkyurem\model\entities\Generation.class
+com\github\psymboll\projectkyurem\util\EntityManagerUtil.class
+com\github\psymboll\projectkyurem\model\dao\PokeUtilDAOHibernate.class
+com\github\psymboll\projectkyurem\model\dao\PokeDAO.class
+com\github\psymboll\projectkyrurem\bl\PokeBL.class
+com\github\psymboll\projectkyurem\controller\MainController.class
+com\github\psymboll\projectkyurem\model\entities\Generation_.class
+com\github\psymboll\projectkyurem\model\dao\PokeDAOHibernate.class
+com\github\psymboll\projectkyurem\util\SessionUtil.class
+com\github\psymboll\projectkyurem\model\entities\Pokemon_.class
+com\github\psymboll\projectkyurem\model\entities\Type_.class
+com\github\psymboll\projectkyurem\controller\BadBean.class
+com\github\psymboll\projectkyurem\model\dao\PokeUtilDAO.class
+com\github\psymboll\projectkyurem\model\entities\Type.class
+com\github\psymboll\projectkyurem\model\entities\PokePredicate.class
+com\github\psymboll\projectkyurem\model\entities\Pokemon.class
+com\github\psymboll\projectkyrurem\bl\PokeBLHibernate.class

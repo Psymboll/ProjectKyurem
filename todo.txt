@@ -1,0 +1,3 @@
+TODO
+
+understand exactly the location where the hibernate config should be placed.
