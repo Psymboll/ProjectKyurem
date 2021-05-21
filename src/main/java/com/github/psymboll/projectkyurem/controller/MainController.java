@@ -48,7 +48,7 @@ public class MainController
 	{
 		List<Pokemon> pokemonList = bl.findPokemonWithCriteria(pokemon);
 		model.addAttribute("pokemonList",pokemonList);
-		return "badlist";
+		return "pokemonlist";
 	}
 	
 	
